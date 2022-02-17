@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Nunito';
+    src: local('Nunito Semi Bold'), local('Nunito-Semi-Bold'),
+        url('Nunito-SemiBold.woff2') format('woff2'),
+        url('Nunito-SemiBold.woff') format('woff'),
+        url('Nunito-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
